@@ -178,9 +178,9 @@ O código completo está neste repositório, enquanto o **relatório técnico co
 
 ## 👨‍🎓 Autor
 
-Aluno: [Seu nome completo]
-Curso: [Seu curso]
-Instituição: [Nome da faculdade]
+Aluno: Samuell Trabulsi Tavares 
+Curso: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+Instituição: UNINTER
 Semestre: 2025/1
 
 ---
